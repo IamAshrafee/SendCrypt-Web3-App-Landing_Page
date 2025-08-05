@@ -1,0 +1,23 @@
+{
+  "name": "sendcrypt-web3-app-landing_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamAshrafee/SendCrypt-Web3-App-Landing_Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamAshrafee/SendCrypt-Web3-App-Landing_Page/issues"
+  },
+  "homepage": "https://github.com/IamAshrafee/SendCrypt-Web3-App-Landing_Page#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
